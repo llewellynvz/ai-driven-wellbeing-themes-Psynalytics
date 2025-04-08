@@ -131,3 +131,9 @@ This project was developed by [Prof. Llewellyn van Zyl (PhD)](https://www.linked
 ---
 
 Feel free to fork, adapt, or collaborate to evolve this into a modular, production-grade wellbeing insights engine.
+
+## 🛡 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute it with attribution.  
+© 2025 Prof. Llewellyn van Zyl. See [LICENSE](./LICENSE) for details.
